@@ -1,6 +1,4 @@
-<p align="center">
-# Hi! I'm Evan! 👋
-</p>
+<h1 align="center">Hi! I'm Evan! :wave:</h1>
 
 ![](https://api.ghprofile.me/view?username=eltaylor1104&style=flat-square)
 ![](https://img.shields.io/badge/Discord-judger%236969-%237289da?logo=discord&style=flat-square)
