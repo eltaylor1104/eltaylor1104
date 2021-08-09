@@ -19,10 +19,10 @@
   </a>
 </p>
 
-<h4 align="center">Projects:
+<h3 align="center">Projects:</h3>
   
-[BonBot](https://dsc.gg/bonbot)
+[BonBot](https://dsc.gg/bonbot): A useful discord bot utilizing slash commands that makes it easy to run your server with fun commands and moderation.
  
-[Daddy Bot](https://dsc.gg/daddybot)
-</h4>
+[Daddy Bot](https://dsc.gg/daddybot): A (no longer updated) discord bot utilizing reddit to get fun memes, along with moderation, utility, and fun commands.
+
 
