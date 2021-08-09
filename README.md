@@ -20,7 +20,6 @@
 </p>
 
 <h4 align="center">Projects:
-
-- [BonBot](https://dsc.gg/bonbot)
-- [Daddy Bot](https://dsc.gg/daddybot)</h4>
+[BonBot](https://dsc.gg/bonbot)
+[Daddy Bot](https://dsc.gg/daddybot)</h4>
 
