@@ -1,7 +1,7 @@
 ### Hi! I'm Evan! 👋
 
 ![](https://api.ghprofile.me/view?username=eltaylor1104)
-![](https://img.shields.io/discord/494010761782231042.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/users/494010761782231042)
+![](https://img.shields.io/badge/Discord-judger%236969-%237289da?logo=discord&style=flat-square
 
 
 
