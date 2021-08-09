@@ -13,10 +13,14 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/eltaylor1104">
+    <img src="https://github-readme-stats.vercel.app/api?username=eltaylor1104&count_private=true&show_icons=true&hide=stars&theme=radical&hide_border=true&custom_title=Evan%27s%20GitHub%20Stats" alt="GitHub Stats"/>
+  </a>
+</p>
 
-
-
-Projects:
+<h4 align="center">Projects:
 
 - [BonBot](https://dsc.gg/bonbot)
-- [Daddy Bot](https://dsc.gg/daddybot)
+- [Daddy Bot](https://dsc.gg/daddybot)</h4>
+
