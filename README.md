@@ -16,7 +16,7 @@
   <summary> My Github Stats </summary>
   <p align="center">
   <a href="https://github.com/eltaylor1104">
-    <img src="https://github-readme-stats.vercel.app/api&username=eltaylor1104&count_private=true&show_icons=true&hide=stars,prs&theme=radical&hide_border=true&custom_title=Evan%27s%20GitHub%20Stats" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=eltaylor1104&count_private=true&show_icons=true&hide=stars,prs&theme=radical&hide_border=true&custom_title=Evan%27s%20GitHub%20Stats" alt="GitHub Stats"/>
   </a>
 </p>
 </details>
