@@ -12,12 +12,23 @@
     <img src="https://img.shields.io/badge/Twitter-evan_taylor1104-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: evan_taylor1104"/>
   </a>
 </p>
-
-<p align="center">
+<details>
+  <summary> My Github Stats </summary>
+  <p align="center">
   <a href="https://github.com/eltaylor1104">
-    <img src="https://github-readme-stats.vercel.app/api?username=eltaylor1104&count_private=true&show_icons=true&hide=stars,prs&theme=radical&hide_border=true&custom_title=Evan%27s%20GitHub%20Stats" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?   username=eltaylor1104&count_private=true&show_icons=true&hide=stars,prs&theme=radical&hide_border=true&custom_title=Evan%27s%20GitHub%20Stats" alt="GitHub Stats"/>
   </a>
 </p>
+</details>
+<details>
+    <summary> Most used Languages</summary>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltaylor1104&layout=compact&theme=tokyonight" />
+</details>
+<details>
+    <summary> Github Commits Streak 😅</summary>
+    <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=eltaylor1104&theme=blue-green" />
+</details>
+
 
 <h3 align="center">Projects:</h3>
   
