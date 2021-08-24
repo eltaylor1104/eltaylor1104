@@ -28,15 +28,16 @@
     </a>
 </p>
 </details>
+
+
 <details>
     <summary> Github Commits Streak</summary>
-  <p align="center>
+  <p align="center">
   <a href="https://github.com/eltaylor1104">
-    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=eltaylor1104&theme=blue-green"/>
-                                                                                                     </a>
-                                                                                                     </p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eltaylor1104&theme=blue-green"/>
+    </a>
+</p>
 </details>
-
 
 <h3 align="center">Projects:</h3>
   
