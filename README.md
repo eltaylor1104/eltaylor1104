@@ -23,13 +23,18 @@
 <details>
     <summary> Most used Languages</summary>
   <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=eltaylor1104&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/eltaylor1104">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltaylor1104&layout=compact&theme=tokyonight"/>
     </a>
 </p>
 </details>
 <details>
     <summary> Github Commits Streak</summary>
-    <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=eltaylor1104&theme=blue-green" />
+  <p align="center>
+  <a href="https://github.com/eltaylor1104">
+    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=eltaylor1104&theme=blue-green"/>
+                                                                                                     </a>
+                                                                                                     </p>
 </details>
 
 
