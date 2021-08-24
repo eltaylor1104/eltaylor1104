@@ -22,7 +22,10 @@
 </details>
 <details>
     <summary> Most used Languages</summary>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltaylor1104&layout=compact&theme=tokyonight" />
+  <p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=eltaylor1104&layout=compact&theme=tokyonight" />
+    </a>
+</p>
 </details>
 <details>
     <summary> Github Commits Streak</summary>
