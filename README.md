@@ -40,6 +40,5 @@
   
 [BonBot](https://dsc.gg/bonbot): A useful discord bot utilizing slash commands that makes it easy to run your server with fun commands and moderation.
  
-[Daddy Bot](https://dsc.gg/daddybot): A (no longer updated) discord bot utilizing reddit to get fun memes, along with moderation, utility, and fun commands.
-
+[Loggy](https://link.judger.xyz/loggy): An extremely customizable, efficient, and reliable logging bot to keep your server safe. 
 
