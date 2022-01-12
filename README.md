@@ -2,9 +2,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/eltaylor1104">
-    <img src="https://api.ghprofile.me/view?username=eltaylor1104&style=flat-square" alt="Profile View Count"/>
-  </a>
   <a href="https://discord.com/users/494010761782231042">
     <img src="https://img.shields.io/badge/Discord-judger%236969-%237289da?logo=discord&style=flat-square" alt="Discord: judger#6969"/>
   </a>
