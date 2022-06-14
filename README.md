@@ -37,8 +37,5 @@
 </details>
 
 <h3 align="center">Projects:</h3>
-  
-[BonBot](https://dsc.gg/bonbot): A useful discord bot utilizing slash commands that makes it easy to run your server with fun commands and moderation.
- 
 [Loggy](https://link.judger.xyz/loggy): An extremely customizable, efficient, and reliable logging bot to keep your server safe. 
 
